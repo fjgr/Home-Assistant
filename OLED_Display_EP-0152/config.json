@@ -15,9 +15,7 @@
     "ingress": false,
     "app_armor": true,
     "host_network": true,
-    "privileged": [
-        "SYS_ADMIN"
-    ],
+    "privileged": ["SYS_ADMIN"],
     "devices": [
         "/dev/i2c-1"
     ],
