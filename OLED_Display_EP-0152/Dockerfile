@@ -1,16 +1,8 @@
 ARG BUILD_FROM
 FROM $BUILD_FROM
 ENV LANG C.UTF-8
-
-# Install requirements for add-on
-RUN \
-  apk add --no-cache \
-    musl i2c-tools
-
-WORKDIR /data
-
-# Copy data for add-on
 COPY run.sh /
+WORKDIR /data
 RUN chmod a+x /run.sh
 
 CMD [ "/run.sh" ]
