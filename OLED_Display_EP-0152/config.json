@@ -1,6 +1,6 @@
 {
     "name": "OLED Display EP-0152",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "slug": "oled_display_ep0152",
     "description": "This plugin allows you to display on your OLED provided in Fan Expansion Board Plus 0.91 OLED V1.0 with the ssd1306 OLED.",
     "arch": ["armhf","armv7","aarch64"],
