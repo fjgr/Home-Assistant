@@ -1,4 +1,4 @@
-# Home Assistant Add-ons
+# Home Assistant fjgr Add-ons
 
 Add-ons for Home Assistant, allow you to extend the functionality around your Home Assistant setup.
 
