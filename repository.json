@@ -1,1 +1,5 @@
-
+{
+    "name": "Home Assistant fjgr Add-ons:",
+    "url": "https://github.com/UCTRONICS/HomeAssistant",
+    "maintainer": "Fran González <fran@micorreo.biz>"
+}
